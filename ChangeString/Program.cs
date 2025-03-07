@@ -6,7 +6,24 @@ namespace ChangeString
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello LP1!");
+            Console.WriteLine("String: ");
+            string readString= Console.ReadLine();
+            Console.WriteLine("Caráter: ");
+            string readCaracter= Console.ReadLine();
+
+            char Sub = char.Parse(readCaracter);
+
+            foreach (char i in readString)
+            {
+                if ( i == Sub)
+                {
+                    Console.Write("x");
+                }
+                else
+                {
+                    Console.Write(i);
+                }
+            }
         }
     }
 }
