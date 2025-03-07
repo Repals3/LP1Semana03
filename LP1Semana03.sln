@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RightSize", "RIghtSize\RightSize.csproj", "{C46DA589-6EBC-4107-84FF-DA4F0B931309}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeString", "ChangeString\ChangeString.csproj", "{AEF5CAAA-3E75-4913-B8F7-2FFC5396E364}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{C46DA589-6EBC-4107-84FF-DA4F0B931309}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C46DA589-6EBC-4107-84FF-DA4F0B931309}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C46DA589-6EBC-4107-84FF-DA4F0B931309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF5CAAA-3E75-4913-B8F7-2FFC5396E364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF5CAAA-3E75-4913-B8F7-2FFC5396E364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF5CAAA-3E75-4913-B8F7-2FFC5396E364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF5CAAA-3E75-4913-B8F7-2FFC5396E364}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
