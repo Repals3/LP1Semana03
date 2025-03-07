@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RightSize", "RIghtSize\Righ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeString", "ChangeString\ChangeString.csproj", "{AEF5CAAA-3E75-4913-B8F7-2FFC5396E364}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMul", "ArrayMul\ArrayMul.csproj", "{987D2DB1-64F0-42E7-A728-0610F73423C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{AEF5CAAA-3E75-4913-B8F7-2FFC5396E364}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEF5CAAA-3E75-4913-B8F7-2FFC5396E364}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEF5CAAA-3E75-4913-B8F7-2FFC5396E364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{987D2DB1-64F0-42E7-A728-0610F73423C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987D2DB1-64F0-42E7-A728-0610F73423C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987D2DB1-64F0-42E7-A728-0610F73423C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987D2DB1-64F0-42E7-A728-0610F73423C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
